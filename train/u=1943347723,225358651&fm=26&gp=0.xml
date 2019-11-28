@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>u=1943347723,225358651&amp;fm=26&amp;gp=0.jpg</filename>
+	<path>H:\tf_pk\images\u=1943347723,225358651&amp;fm=26&amp;gp=0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chaozhai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>2</ymin>
+			<xmax>259</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
